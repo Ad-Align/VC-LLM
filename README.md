@@ -11,8 +11,8 @@ We train the Value-Consistent Large Language Model (VC-LLM) using this framework
 
 The VC-LLM is available on Hugging Face for easy access and deployment:
 
-- **Model on Hugging Face:** [CMV-LLM on Hugging Face](https://huggingface.co/gotime/CMV-LLM)
-- **Dataset on Hugging Face:** [CMV-LLM-Dataset on Hugging Face](https://huggingface.co/datasets/gotime/CMV-LLM-Dataset)
+- **Model on Hugging Face:** [VC-LLM on Hugging Face](https://huggingface.co/gotime/VC-LLM)
+- **Dataset on Hugging Face:** [VC-LLM-Dataset on Hugging Face](https://huggingface.co/datasets/gotime/VC-LLM-Dataset)
 
 ## Potential Risks and Warnings
 
